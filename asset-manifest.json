@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PRO-GRAM-MER/react-expense.git/static/css/main.1c4f5589.css",
+    "main.js": "/PRO-GRAM-MER/react-expense.git/static/js/main.a70f8880.js",
+    "static/js/787.c248f96a.chunk.js": "/PRO-GRAM-MER/react-expense.git/static/js/787.c248f96a.chunk.js",
+    "index.html": "/PRO-GRAM-MER/react-expense.git/index.html",
+    "main.1c4f5589.css.map": "/PRO-GRAM-MER/react-expense.git/static/css/main.1c4f5589.css.map",
+    "main.a70f8880.js.map": "/PRO-GRAM-MER/react-expense.git/static/js/main.a70f8880.js.map",
+    "787.c248f96a.chunk.js.map": "/PRO-GRAM-MER/react-expense.git/static/js/787.c248f96a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4f5589.css",
+    "static/js/main.a70f8880.js"
+  ]
+}
